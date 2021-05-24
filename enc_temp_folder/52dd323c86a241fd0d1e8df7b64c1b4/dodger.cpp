@@ -116,6 +116,11 @@ int main()
 			window.draw(player.sprite);
 		}
 		
+
+		
+
+
+
 		window.display();
 	}
 
